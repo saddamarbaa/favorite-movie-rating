@@ -179,12 +179,20 @@ input:focus {
 	background: #f67722;
 	padding: 0.25rem 1rem;
 	border-radius: 15px;
+	-webkit-border-radius: 15px;
+	-moz-border-radius: 15px;
+	-ms-border-radius: 15px;
+	-o-border-radius: 15px;
 }
 
 .movie-element__image {
 	flex: 1;
 	border-radius: 10px 0 0 10px;
 	overflow: hidden;
+	-webkit-border-radius: 10px 0 0 10px;
+	-moz-border-radius: 10px 0 0 10px;
+	-ms-border-radius: 10px 0 0 10px;
+	-o-border-radius: 10px 0 0 10px;
 }
 
 .movie-element__image img {
