@@ -1,8 +1,8 @@
 # favorite-movies
-# A mini project for DOM manipulation using JavaScript 
+ A mini project for DOM manipulation using JavaScript 
 
 
-### <a href="https://saddamarbaa.github.io/favorite-movies/">LIVE DEMO</a>
+### <a href="https://saddamarbaa.github.io/favorite-movie-rating/">LIVE DEMO</a>
 
 ### Responsive on large screens
 
@@ -12,6 +12,10 @@
 
 
 ### Responsive on small mobile screens
+
+
+![image](https://user-images.githubusercontent.com/51326421/115903864-4d0de680-a48e-11eb-9d95-550c119e60f7.png)
+
 
 
 
