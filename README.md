@@ -1,8 +1,9 @@
 # favorite-movies
  A mini project for DOM manipulation using JavaScript 
 
+### <a href="https://favorite-movie-rating.netlify.app/">LIVE DEMO</a>
 
-### <a href="https://saddamarbaa.github.io/favorite-movie-rating/">LIVE DEMO</a>
+### <a href="https://saddamarbaa.github.io/favorite-movie-rating/">GitHub Pages DEMO</a>
 
 ### Responsive on large screens
 
